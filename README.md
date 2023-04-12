@@ -1,10 +1,9 @@
-### Hi there 👋
+## Hi there 👋
 
 A tinkerer at heart; I'm always on the lookout for something new to learn, build or break.
 I have 9 years of professional software engineering experience and 11 years of technical side projects.
 
-#### Experience
-Languages
+### Languages
 <div align="left" >
     <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
   	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" /></code>
@@ -15,7 +14,8 @@ Languages
 </div>
 <br>
 <br>
-Technologies
+
+### Technologies
 <div align="left">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
