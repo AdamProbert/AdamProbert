@@ -3,6 +3,12 @@
 A tinkerer at heart; I'm always on the lookout for something new to learn, build or break.
 I have 9 years of professional software engineering experience and 11 years of technical side projects.
 
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdamProbert&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
 ### Languages
 <div align="left" >
     <code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
