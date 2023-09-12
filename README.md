@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A tinkerer at heart; I'm always on the lookout for something new to learn, build or break.
+I'm always on the lookout for something new to learn, build or break.
 I have 9 years of professional software engineering experience and 11 years of technical side projects.
 
 ### :fire: My Stats :
