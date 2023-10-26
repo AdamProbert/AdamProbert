@@ -5,7 +5,7 @@ I have 9 years of professional software engineering experience and 11 years of t
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdamProbert&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdamProbert)](https://git.io/streak-stats)
 
 
 
