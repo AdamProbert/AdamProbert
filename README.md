@@ -1,13 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Adam 👋
 
 I'm always on the lookout for something new to learn, build or break.
-I have 9 years of professional software engineering experience and 11 years of technical side projects.
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AdamProbert)](https://git.io/streak-stats)
-
-
 
 ### Languages & Technologies
 <div align="left" >
