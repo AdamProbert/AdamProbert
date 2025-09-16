@@ -32,7 +32,7 @@ I'm always on the lookout for something new to learn, build or break.
 <br>
 <br>
 
-- 🔭 I’m currently working on modding rc cars with Raspberyy Pi's
-- 🌱 I’m currently learning all things to do with observability
-- 💬 Ask me about anything Unity, Microcontrollers, RC, DnD, 3D Printing
+- 🔭 I’m currently working on building rovers
+- 🌱 I’m currently learning all things to do with supporting live game services
+- 💬 Ask me about anything Unity, Microcontrollers, DnD, 3D Printing or Programming
 - 📫 How to reach me: LinkedIn 👍
